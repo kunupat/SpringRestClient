@@ -1,0 +1,8 @@
+/target/
+.classpath
+.project
+compiler.xml
+encodings.xml
+/.settings/
+/.idea/
+RestCall.iml
